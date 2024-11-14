@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: profile
 excerpt: "Wuxiucheng Wang's Homepage"
 menutitle: Home
 menuorder: 1
