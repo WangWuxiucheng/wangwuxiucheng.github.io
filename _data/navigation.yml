@@ -1,5 +1,24 @@
 # Site navigation links
-- title: 
-  url: 
-  menuorder: 
+# - title: 
+#   url: 
+#   menuorder: 
+
+  # Site navigation links
+- title: Home
+  url: /
+
+- title: Publications
+  url: /publications/
+
+- title: Teaching
+  url: /teaching/
+
+- title: Experiences
+  url: /experiences/
+
+- title: Resume
+  url: /
+
+- title: Miscellaneous
+  url: /miscellaneous/
 
