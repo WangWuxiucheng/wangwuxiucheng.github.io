@@ -1,29 +1,26 @@
 # Site wide configuration
 
-title: Site Title
+title: Wuxiucheng Wang (王武秀成)
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Wuxiucheng Wang (王武秀成)
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "Ph.D Candidate @ University of Rochester | Electrical and Computer Engineering"
+  email: wwang73@ur.rochester.edu #wangwuxiucheng@gmail.com personal email
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
-  linkedin: #username
-  github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
+  linkedin: wuxiuchengwang
+  github: wangwuxiucheng
+  orcid: 0009-0008-9337-9772 # ID Number (ex. 0000-0000-0000-0000)
+  researchgate: Wuxiucheng-Wang #username
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: #id
-  facebook: #username
-  instagram: #username
+    scholar: GkOJbxgAAAAJ #id
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
@@ -42,8 +39,8 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#CC0000'
-lowlight-color: '#000'
+highlight-color: '#FFC70A' #UR gold
+lowlight-color: '#073661' #UR navy
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
