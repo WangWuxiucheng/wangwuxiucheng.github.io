@@ -14,9 +14,11 @@ For the most up-to-date list of publications and citation counts, please visit m
 
 <p>[1] <strong> Wuxiucheng Wang</strong>, Lejie Lu, Lydia King, Yongchao Liu, Ming Gong, Shuangyang Li, Hui Wu, <strong>Subarray Design and Thermal Crosstalk Optimization for Power-Efficient Optical Phased Array</strong>, <em>Conference on Lasers and Electro-Optics (CLEO)</em>, SM4P.8, (2023). &lt;<a href="https://ieeexplore.ieee.org/abstract/document/10258690">IEEE link</a>&gt;&lt;<a href="https://opg.optica.org/abstract.cfm?uri=CLEO_SI-2023-SM4P.8">Optica link</a>&gt;</p>
 
+<p>[1] Francis Smith, <strong> Wuxiucheng Wang</strong>, Xiaodong Wang, Yaqian Li, Xiulan Cheng, Hui Wu,<strong>A design study of efficiency enhancement in silicon photonic thermo-optic phase shifters</strong>, <em>IEEE Optical Interconnects Conference (OI)</em>, SM4P.8, (2019). &lt;<a href="https://ieeexplore.ieee.org/document/8714481">IEEE link</a>&gt;</p>
+
 ### Collaborations
 <p>[1] Wenhui Hou, Ahmad Azizimanesh, Aditya Dey, Yufeng Yang, <strong> Wuxiucheng Wang</strong>, Chen Shao, Hui Wu, Hesam Askari, Sobhit Singh, Stephen Wu, <strong>
-Strain engineering of vertical molybdenum ditelluride phase-change memristors</strong>, <em>Nature electronics</em>, 7, pages8–16 (2024). &lt;<a href="https://www.nature.com/articles/s41928-023-01071-2">Link</a>&gt; </p> _Contributed to the memristor switching characteristics test setup and measurements_
+Strain engineering of vertical molybdenum ditelluride phase-change memristors</strong>, <em>Nature electronics</em>, 7, pages8–16 (2024). &lt;<a href="https://www.nature.com/articles/s41928-023-01071-2">Link</a>&gt; </p> (Contributed to the memristive switching characterization test setup and measurements.)
 
 
 
