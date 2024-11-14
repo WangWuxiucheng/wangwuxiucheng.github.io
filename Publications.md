@@ -16,7 +16,7 @@ For the most up-to-date list of publications and citation counts, please visit m
 
 ### Collaborations
 <p>[1] Wenhui Hou, Ahmad Azizimanesh, Aditya Dey, Yufeng Yang, <strong> Wuxiucheng Wang</strong>, Chen Shao, Hui Wu, Hesam Askari, Sobhit Singh, Stephen Wu, <strong>
-Strain engineering of vertical molybdenum ditelluride phase-change memristors</strong>, <em>Nature electronics</em>, 7, pages8–16 (2024). &lt;<a href="https://www.nature.com/articles/s41928-023-01071-2">Link</a>&gt; _Contributed to the memristor switching characteristics test setup and measurements_</p>
+Strain engineering of vertical molybdenum ditelluride phase-change memristors</strong>, <em>Nature electronics</em>, 7, pages8–16 (2024). &lt;<a href="https://www.nature.com/articles/s41928-023-01071-2">Link</a>&gt; </p> _Contributed to the memristor switching characteristics test setup and measurements_
 
 
 
