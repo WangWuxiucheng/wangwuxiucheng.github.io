@@ -10,8 +10,10 @@ For the most up-to-date list of publications and citation counts, please visit m
 <p>[1] <strong> Wuxiucheng Wang</strong>, Lejie Lu, Lydia King, Yongchao Liu, Ming Gong, Shuangyang Li, Hui Wu, <strong>Cascaded subarray design and control method for power efficient, thermal crosstalk optimized optical phased array</strong>, <em>Optics Express</em> 31 (23), 37381-37394, 2023. &lt;<a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-23-37381&id=541030">link</a>&gt;
                                  
 ### Peer-reviewed Conferences
+<p>[1] <strong> Wuxiucheng Wang</strong>, Lejie Lu, Lydia King, Yongchao Liu, Ming Gong, Shuangyang Li, Hui Wu, <strong>Subarray Design and Thermal Crosstalk Optimization for Power-Efficient Optical Phased Array</strong>, <em>Conference on Lasers and Electro-Optics (CLEO)</em>,SM4P.8, 2023. &lt;<a href="https://ieeexplore.ieee.org/abstract/document/10258690">IEEE link</a>&gt;&lt;<a href="https://opg.optica.org/abstract.cfm?uri=CLEO_SI-2023-SM4P.8">Optica link</a>&gt;
 
-### Collabrations
+
+### Collaborations
 
 
 
