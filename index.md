@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 excerpt: "Wuxiucheng Wang's Homepage"
 menutitle: Home
 menuorder: 1
