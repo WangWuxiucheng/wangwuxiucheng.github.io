@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: publication
 menutitle: Publications
 menuorder: 2
 excerpt: "Publications"
