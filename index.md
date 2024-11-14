@@ -1,16 +1,15 @@
 ---
-layout: page
-excerpt: "About Me..."
+layout: home
+excerpt: "Wuxiucheng Wang's Homepage"
 menutitle: Home
 menuorder: 1
 ---
+[//]: # (This project is a slight customization based off of some great work by NC State University Libraries
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a PhD candidate at the [Laboratory for Advanced Integrated Circuits and Systems](https://www.hajim.rochester.edu/ece/sites/laics/research-projects/), University of Rochester, NY, USA. 
+
+My research focuses on optoelectronics and silicon photonics, particularly in optical phased array. 
+
+<span style="color:red">I am actively seeking full-time engineer roles in industry. Please feel free to reach out if you have opportunities or would like to connect!</span>
 
 ## Current Interests and Projects:
-
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
