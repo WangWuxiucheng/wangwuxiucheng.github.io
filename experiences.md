@@ -39,7 +39,7 @@ title: "Industrial"
 	- Mentored by [Dr.Tzu-Han Chang](https://www.linkedin.com/in/tzu-han-chang-742b29199/)
 
 ## Undergraduate Senior Design Project
-`Spring 2027` *Digital System/Microcontroller-based Senior Design*
+`Spring 2017` *Digital System/Microcontroller-based Senior Design*
 
 **[GUITAMATIC- A automatic guitar player machine project page](https://engineering.purdue.edu/ece477/Archive/2017/Spring/477grp15/)**
 
