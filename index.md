@@ -1,9 +1,9 @@
 ---
 layout: page
 excerpt: "Wuxiucheng Wang's Homepage"
+title: About Me
 ---
 
-### About Me:
 [//]: # (This project is a slight customization based off of some great work by NC State University Libraries
 
 I am a Ph.D. candidate at the [Laboratory for Advanced Integrated Circuits and Systems](https://www.hajim.rochester.edu/ece/sites/laics/research-projects/), University of Rochester, NY, USA.
@@ -13,12 +13,12 @@ My research contributions have been recognized and presented at world-renowned, 
 
 *<span style="color:red">I am actively seeking full-time technical roles in industry. Please feel free to reach out if you have opportunities or would like to connect!</span>*
 
-### Education
+## Education
 
 * M.S in Electrical and Computer Engineering, **University of Rochester**, NY, USA, in 2019
 * B.S in Electrical and Computer Engineering, **Purdue University**, IN,USA, in 2017.
 
-### Current Interests and Projects:
+## Current Interests and Projects:
 
 * Optoelectroncis and Silicon photonics
 * Optical Phased Array
@@ -26,7 +26,7 @@ My research contributions have been recognized and presented at world-renowned, 
 * Electronics Design
 * Experiment and Test Automation
 
-### Publication Highlights
+## Publication Highlights
 
 <p>[3] <strong> Wuxiucheng Wang</strong>, Yongchao Liu, Ming Gong, Hui Wu, <strong>Dual-Mode, Subarray Design for Optical Phased Array With Electro-Optic Phase Shifters</strong>, <em>Conference on Lasers and Electro-Optics (CLEO)</em>, JTh2A.188, (2024). &lt;<a href="https://ieeexplore.ieee.org/abstract/document/10727269">IEEE link</a>&gt;&lt;<a href="https://opg.optica.org/abstract.cfm?uri=CLEO_AT-2024-JTh2A.188">Optica link</a>&gt;</p>
 

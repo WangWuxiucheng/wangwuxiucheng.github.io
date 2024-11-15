@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Publications
+excerpt: Publications
 ---
+
 For the most up-to-date list of publications and citation counts, please visit my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=GkOJbxgAAAAJ&view_op=list_works&sortby=pubdate).
 
 ### Upcoming

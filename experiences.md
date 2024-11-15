@@ -1,9 +1,10 @@
 ---
 layout: page
 excerpt: "Experiences"
+title: 
 ---
 
-## Industrial
+# Industrial
 
 `Summer 2021` **Seagate Technology - Seagate Research Group (Shakopee, MN, USA)**
 
@@ -19,7 +20,7 @@ excerpt: "Experiences"
 - Mentored by [Dr. Aditya Jain](https://www.linkedin.com/in/adityajainisu/)
 
 
-## Undergraduate Research
+# Undergraduate Research
 
 `2016-2017` Hung Lab@Purdue, Ultracold quantum gas and quantum optics
 
