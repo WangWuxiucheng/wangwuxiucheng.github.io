@@ -1,7 +1,6 @@
 ---
-layout: resume
-menuorder: 3
-menutitle: Resume
+layout: page
+excerpt: "Experiences"
 ---
 ## Currently
 

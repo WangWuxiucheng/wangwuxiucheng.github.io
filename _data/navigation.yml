@@ -3,22 +3,28 @@
 #   url: 
 #   menuorder: 
 
-  # Site navigation links
+# Site navigation links
 - title: Home
   url: /
+  menuorder: 1
 
 - title: Publications
-  url: /publications/
+  url: /publication/
+  menuorder: 2
 
 - title: Teaching
   url: /teaching/
+  menuorder: 3
 
 - title: Experiences
   url: /experiences/
+  menuorder: 4
 
 - title: Resume
-  url: /
+  url: /resume/
+  menuorder: 5
 
 - title: Miscellaneous
   url: /miscellaneous/
+  menuorder: 6
 

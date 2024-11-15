@@ -1,8 +1,6 @@
 ---
 layout: profile
 excerpt: "Wuxiucheng Wang's Homepage"
-menutitle: Home
-menuorder: 1
 ---
 [//]: # (This project is a slight customization based off of some great work by NC State University Libraries
 
