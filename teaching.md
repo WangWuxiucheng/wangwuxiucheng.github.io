@@ -4,7 +4,7 @@ title: Teaching
 excerpt: Teaching
 ---
 
-## Graduate Teaching Assistant
+## Teaching Assistant
 
 **`Spring 2021`** **ECE 222: Integrated Circuit Design and Analysis** -Recitation/Project TA-
 
@@ -55,16 +55,17 @@ excerpt: Teaching
 
 Detailed course descriptions can be found here: UR ECE course descriptions &lt;<a href="https://https://www.hajim.rochester.edu/ece/undergraduate/fall.php">Fall</a>&gt;, &lt;<a href="https://www.hajim.rochester.edu/ece/undergraduate/spring.php">Spring</a>&gt;
 
+---
 
 ## Students Mentored
-**Yichuan Wang**, ECE Undergraduate@UR, Summer 2024
+`Summer 2024` **Yichuan Wang**, ECE Undergraduate@UR
 
-**Jianxiong Li**, ECE Undergraduate@UR, Summer 2024
+`Summer 2024` **Jianxiong Li**, ECE Undergraduate@UR
 
-**Linbo Jing**, Optics Undergraduate@UR, 2022
+`Summer 2022` **Linbo Jing**, Optics Undergraduate@UR
 
-**Lydia King**, ECE Undergraduate@UR, 2020-2022
+`2020-2022` **Lydia King**, ECE Undergraduate@UR
 
-**Shuangyang Li**, ECE Undergraduate@UR, Summer 2020
+`Summer 2020` **Shuangyang Li**, ECE Undergraduate@UR
 
-**Siyuan Liu**, ECE Master@UR, 2019-2020
+`2019-2020` **Siyuan Liu**, ECE Master@UR

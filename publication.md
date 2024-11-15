@@ -5,7 +5,7 @@ title: Publications
 For the most up-to-date list of publications and citation counts, please visit my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=GkOJbxgAAAAJ&view_op=list_works&sortby=pubdate).
 
 ### Upcoming
-<p>[1] <strong> Wuxiucheng Wang</strong>, Sasanka Munasinghe, Hui Wu, <strong>Broaden optical phased array beamsteering range with complementary grating emitters</strong>, <em>Photonics West 2025</em> LASE (29 Jan 2025).</p>
+<p>[1] <strong> Wuxiucheng Wang</strong>, Sasanka Munasinghe, Hui Wu, <strong>Broaden optical phased array beamsteering range with complementary grating emitters</strong>, <em>Photonics West 2025</em>, LASE (Jan-29 2025).</p>
 ---
 
 ### Journal Papers
@@ -29,6 +29,8 @@ For the most up-to-date list of publications and citation counts, please visit m
 Strain engineering of vertical molybdenum ditelluride phase-change memristors</strong>, <em>Nature electronics</em>, 7, pages8–16 (2023).&lt;<a href="https://www.nature.com/articles/s41928-023-01071-2">Link</a>&gt;&lt;<a href="https://arxiv.org/abs/2308.13637">arXiv</a>&gt;<br>(Contributed to the memristive switching characterization test setup and measurements.)</p>
 
 <p>[1] Xiaodong Wang, <strong> Wuxiucheng Wang</strong>, Yaqian Li, Xuecheng Fu, Shujing Chen, Francis Smith, Hui Wu, Xiulan Cheng <strong>Low Power and Compact Silicon Thermo-Optic Switch Based on Suspended Phase Arm Without Support Beams</strong>, <em>IEEE Photonics Technology Letters</em>, 32(19), pp.1281-1284, (2020).&lt;<a href="https://ieeexplore.ieee.org/abstract/document/9184872">IEEE link</a>&gt;&lt;<a href="https://par.nsf.gov/servlets/purl/10198282">PDF</a>&gt;<br>(Contributed to the thermal simulation and modeling.)</p>
+
+
 
 
 

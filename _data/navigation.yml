@@ -20,11 +20,7 @@
   url: /experiences/
   menuorder: 4
 
-- title: Resume
-  url: /resume/
-  menuorder: 5
-
 - title: Miscellaneous
   url: /miscellaneous/
-  menuorder: 6
+  menuorder: 5
 

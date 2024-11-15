@@ -2,70 +2,36 @@
 layout: page
 excerpt: "Experiences"
 ---
-## Currently
 
-Current Position Description
+## Industrial
 
-## Education
+`Summer 2021` **Seagate Technology - Seagate Research Group (Shakopee, MN, USA)**
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
-
-`1995 - 1997`
-__University Name__
-Degree Awarded 
-
-## Awards
-
-`2012`
-Name of Award, Organization 
-
-## Publications
-
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
+- OPA-based LiDAR R&D
+	- Optimized photonics automated calibration procedures.
+	- Optimized MATLAB-FPGA communication protocol.
+	- Data analysis and performed 2-D beamsteering.
+- Thermo-optic phase shifter design and modeling.
+- Photonic chip and device characterization.
+	- Non-linear effect.
+	- Electro-optic phase shifter.
+- LiDAR data analysis using MATLAB.
+- Mentored by [Dr. Aditya Jain](https://www.linkedin.com/in/adityajainisu/)
 
 
-## Presentations
+## Undergraduate Research
 
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+`2016-2017` Hung Lab@Purdue, Ultracold quantum gas and quantum optics
 
+- Analog & Digital Laboratory Control System
+	- 48 digital-channel and 32 analog-channel design.
+	- Implemented power supplies, data-bus board, and DAC boards based on the [Strontium quantum gas group’s design](https://www.strontiumbec.com/).
+	- Tested the circuits & control software using LabVIEW and NI-DAQ.
+	- Machine shop part fabrication and processing.
+- Various Electronic Circuit Projects
+	- Laser diode TEC PI temperature controller.
+	- TIA front-end circuit for photodiode.
+	- Balanced PD circuit for laser frequency tuning/locking.
 
-## Occupation
-
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
