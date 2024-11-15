@@ -53,6 +53,8 @@ excerpt: Teaching
 - Gave recitations on course reviews, homework problems.
 - Held lab sessions for digital circuit design with Quartus II FPGA and Verilog.
 
+Detailed course descriptions can be found here: UR ECE course descriptions &lt;<a href="https://https://www.hajim.rochester.edu/ece/undergraduate/fall.php">Fall</a>&gt;, &lt;<a href="https://www.hajim.rochester.edu/ece/undergraduate/spring.php">Spring</a>&gt;
+
 
 ## Students Mentored
 **Yichuan Wang**, ECE Undergraduate@UR, Summer 2024

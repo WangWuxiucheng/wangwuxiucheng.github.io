@@ -14,7 +14,7 @@ body {
 
 .navigation-wrapper {
 	@include container;
-	padding: 2em 0 1em;
+	padding: 1em 0 0.5em;
 	font-family: $heading-font;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -22,6 +22,7 @@ body {
 	border-bottom-style: solid;
 	border-bottom-color: $highlightcolor;
 	border-bottom-width: .5em;
+	//border-bottom-width: 10em;
 }
 
 /* Site name */
@@ -225,7 +226,7 @@ $button-size: 1.5rem;
 	@include container;
 	@include clearfix;
 	clear: both;
-	padding-top: 2em;
+	padding-top: 1.5em;
 	border-top-width: 2em;
 	border-top-style: solid;
 	border-top-color: $lowlightcolor;
@@ -378,29 +379,47 @@ $button-size: 1.5rem;
 
 /* Author sidebar */
 .article-author-side {
-	display: none;
-	.bio-photo {
-		max-width: 110px;
+	margin: 1em;
+	margin-bottom: 15px; 
+
+	div.itemscope{
+		display: flex;
+		flex-wrap: wrap;
+		margin: auto;
+	}
+	img.bio-photo {
+		display:block;
+		max-width: 200px;
+		margin-left: auto;
+  	margin-right: auto;
 		@include rounded(150px);
 	}
+	.itemscope > div.user-info{
+		margin: auto;
+		min-width: 200px;
+		max-width: 250px;
+	}
+
 	@media #{$small} {
 		display: block;
-		@include grid(12,2);
+		@include grid(12,4);
 		@include prefix(12,0.5);
 		@include suffix(12,0.5);
-		h3,
-		p,
-		.author-social {
+		.itemscope > img.bio-photo{max-width:150px;}
+		div.itemscope, h3, p, .author-social {
 			display: block;
-			max-width: 125px;
+			max-width: 250px;
+			margin-left: auto;
+  		margin-right: auto;
 		}
 		h3 {
 			margin-top: 10px;
 			margin-bottom: 10px;
 		}
-		p {
+		p{
+			margin-top: 5px;
 			margin-bottom: 20px;
-		}
+		}	
 		.author-social {
 			margin-bottom: 5px;
 		}
@@ -410,11 +429,11 @@ $button-size: 1.5rem;
 		.bio-photo,
 		p,
 		.author-social {
-			max-width: 150px;
+			max-width: 250px;
 		}
 	}
 	@media #{$x-large} {
-		@include grid(12,1.5);
+		@include grid(12,2);
 		@include prefix(12,2);
 	}
 }
@@ -426,21 +445,21 @@ $button-size: 1.5rem;
 		display: none;
 	}
 	.bio-photo {
-		float: left;
-		margin-right: 25px;
-		max-width: 100px;
-		@include rounded(150px);
+		margin-left: auto;
+  	margin-right: auto;
+		max-width: 250x;
+		@include rounded(15px);
 	}
 	.author-social {
 		display: inline-block;
-		margin-right: 10px;
+		margin-right: 5px;
 	}
 	@media #{$large} {
 		h3,
 		.bio-photo,
 		p,
 		.author-social {
-			max-width: 150px;
+			max-width: 250px;
 		}
 	}
 }
@@ -634,7 +653,7 @@ $button-size: 1.5rem;
 	@include container;
 	@include clearfix;
 	clear: both;
-	padding-bottom: 3em;
+	padding-bottom: 2em;
 	text-align: center;
 	a,
 	a:active,
