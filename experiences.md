@@ -1,10 +1,8 @@
 ---
 layout: page
 excerpt: "Experiences"
-title: 
+title: "Industrial"
 ---
-
-# Industrial
 
 `Summer 2021` **Seagate Technology - Seagate Research Group (Shakopee, MN, USA)**
 
@@ -20,9 +18,9 @@ title:
 - Mentored by [Dr. Aditya Jain](https://www.linkedin.com/in/adityajainisu/)
 
 
-# Undergraduate Research
+## Undergraduate Research
 
-`2016-2017` Hung Lab@Purdue, Ultracold quantum gas and quantum optics
+`2016-2017` [Hung Lab@Purdue](https://ultracold.physics.purdue.edu/members/index.html), Ultracold quantum gas and quantum optics
 
 - Analog & Digital Laboratory Control System
 	- 48 digital-channel and 32 analog-channel design.

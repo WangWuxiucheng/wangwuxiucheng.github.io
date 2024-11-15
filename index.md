@@ -6,7 +6,7 @@ title: About Me
 
 [//]: # (This project is a slight customization based off of some great work by NC State University Libraries
 
-I am a Ph.D. candidate at the [Laboratory for Advanced Integrated Circuits and Systems](https://www.hajim.rochester.edu/ece/sites/laics/research-projects/), University of Rochester, NY, USA.
+I am a Ph.D. candidate at the [Laboratory for Advanced Integrated Circuits and Systems](https://www.hajim.rochester.edu/ece/sites/laics/research-projects/), University of Rochester, NY, USA. Supervisor: [Prof. Hui Wu](https://www.hajim.rochester.edu/ece/people/faculty/wu_hui/index.html).
 
 My research focuses on optoelectronics and silicon photonics, particularly in optical phased array (OPA). My work include a broad spectrum of studies, such as **photonic integrated device/circuit design**, **electronic peripheral design**, **circuit and system level control, automation and optimization**, and **free-space optical communication**.
 My research contributions have been recognized and presented at world-renowned, peer-reviewed conferences and journals such as CLEO, IPC, GFP, and OE.
