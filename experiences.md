@@ -31,6 +31,30 @@ title: "Industrial"
 	- Laser diode TEC PI temperature controller.
 	- TIA front-end circuit for photodiode.
 	- Balanced PD circuit for laser frequency tuning/locking.
+- Completed machine shop training and gained access to milling machines, lathes, band saws, and drill presses.
+- Assisted a Ph.D. student in setting up a new optical table for fiber optics and photonics projects.
+	- Set up a microscope imaging system.
+	- Set up a NI-DAQ system and learned LabVIEW.
+	- Gained experiences in fiber optics, electronics/PCB design, testing, and lab automation.
+	- Mentored by [Dr.Tzu-Han Chang](https://www.linkedin.com/in/tzu-han-chang-742b29199/)
+
+## Undergraduate Senior Design Project
+`Spring 2027` *Digital System/Microcontroller-based Senior Design*
+
+**[GUITAMATIC- A automatic guitar player machine project page](https://engineering.purdue.edu/ece477/Archive/2017/Spring/477grp15/)**
+
+The project is an automatic guitar playing machine. It reads a MIDI file and translates that to mechanical movement, which plucks the guitar strings and presses on the notes accordingly. It is able to mimic a guitarist. 
+
+- Won the <u>First place</u> in Purdue Spark Challenge Competition, out of about 50 teams.
+- Hardware & Mechanical Designer
+	- Designed, implemented and tested STM32 based microcontroller and 24V solenoid driver circuit. 
+	- Integration of the software and hardware.
+	- Designed, processed and assembled the mechanical support structure using a milling machine, bandsaw, and belt sander.
+- Project documentation and team webpage maintenance.
+
+
+
+
 
 
 
