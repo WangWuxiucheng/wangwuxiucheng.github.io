@@ -11,7 +11,7 @@ I am a Ph.D. candidate at the [Laboratory for Advanced Integrated Circuits and S
 My research focuses on optoelectronics and silicon photonics, particularly in optical phased array (OPA). My work include a broad spectrum of studies, such as **photonic integrated device/circuit design**, **electronic peripheral design**, **circuit and system level control, automation and optimization**, and **free-space optical communication**.
 My research contributions have been recognized and presented at world-renowned, peer-reviewed conferences and journals such as CLEO, IPC, GFP, and OE.
 
-*<span style="color:red">I am actively seeking full-time engineer roles in industry. Please feel free to reach out if you have opportunities or would like to connect!</span>*
+*<span style="color:red">I am actively seeking full-time technical roles in industry. Please feel free to reach out if you have opportunities or would like to connect!</span>*
 
 ### Education
 
