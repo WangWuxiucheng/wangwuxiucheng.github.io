@@ -59,6 +59,7 @@ sass:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-pdf-embed
 
 kramdown:
   auto_ids: true
