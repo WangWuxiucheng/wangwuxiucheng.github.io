@@ -11,11 +11,11 @@ title: "Industrial"
 	- Optimized MATLAB-FPGA communication protocol.
 	- Data analysis and performed 2-D beamsteering.
 - Thermo-optic phase shifter design and modeling.
-- Photonic chip and device characterization.
+- Photonic chip and device characterizations.
 	- Non-linear effect.
 	- Electro-optic phase shifter.
 - LiDAR data analysis using MATLAB.
-- Mentored by [Dr. Aditya Jain](https://www.linkedin.com/in/adityajainisu/)
+- Mentored by [Dr. Aditya Jain](https://www.linkedin.com/in/adityajainisu/).
 
 
 ## Undergraduate Research

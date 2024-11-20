@@ -19,10 +19,14 @@ h3 {
 	@include font-size(24);
 }
 h4 {
-	@include font-size(18);
+	@include font-size(20);
+	margin-top:0.5rem;
+	margin-bottom:0.5rem;
 }
 h5 {
 	@include font-size(16);
+	margin-top:0.25rem;
+	margin-bottom:0.25rem;
 }
 h6 {
 	@include font-size(14);
@@ -131,12 +135,13 @@ blockquote {
    ========================================================================== */
 
 p {
-	margin: 0 0 $indent-var;
+	margin: 0 0 0.5em;
 	// sibling indentation
   @if $paragraph-indent == true {
     & + p {
 			text-indent: $indent-var;
 			margin-top: -($indent-var);
+
 		}
 	}
 }

@@ -398,7 +398,7 @@ $button-size: 1.5rem;
 	}
 	img.bio-photo {
 		display:block;
-		max-width: 200px;
+		max-width: 180px;
 		margin-left: auto;
   	margin-right: auto;
 		@include rounded(150px);
@@ -406,7 +406,7 @@ $button-size: 1.5rem;
 	.itemscope > div.user-info{
 		margin: auto;
 		min-width: 200px;
-		max-width: 250px;
+		max-width: 220px;
 	}
 
 	@media #{$small} {
@@ -417,7 +417,7 @@ $button-size: 1.5rem;
 		.itemscope > img.bio-photo{max-width:150px;}
 		div.itemscope, h3, p, .author-social {
 			display: block;
-			max-width: 250px;
+			max-width: 220px;
 			margin-left: auto;
   		margin-right: auto;
 		}
@@ -439,7 +439,7 @@ $button-size: 1.5rem;
 		.bio-photo,
 		p,
 		.author-social {
-			max-width: 250px;
+			max-width: 220px;
 		}
 	}
 	@media #{$x-large} {

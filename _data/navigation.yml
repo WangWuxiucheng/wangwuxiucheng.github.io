@@ -8,19 +8,22 @@
   url: /
   menuorder: 1
 
+- title: Research
+  url: /research/Optical-Phased-Array-Research-in-LAICS,-UR/
+  menuorder: 2
+
 - title: Publications
   url: /publication/
-  menuorder: 2
+  menuorder: 3
 
 - title: Teaching
   url: /teaching/
-  menuorder: 3
+  menuorder: 4
 
 - title: Experiences
   url: /experiences/
-  menuorder: 4
+  menuorder: 5
 
 - title: Portfolio
   url: /portfolio/
-  menuorder: 5
-
+  menuorder: 6
