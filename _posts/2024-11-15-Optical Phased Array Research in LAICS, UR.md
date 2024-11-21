@@ -152,7 +152,7 @@ This research is partially supported by NSF grants ECCS-1842691 and IIS-1722847.
 
 ---
 Special thanks to my colleagues for their invaluable contributions: 
-- Dr. Francis Smith for all the colarboations on the OPA project.
+- Dr. Francis Smith for all the collaborations on the OPA project.
 - Lejie Lu for assisting with the driver board PCB design. 
 - Shuangyang Li for migrating the test setup from LabVIEW codes to C-based codes.
 - Lydia King for her dedication to the design of the MCU board and the development and testing of low-level SPI and QuadSPI functionalities.
