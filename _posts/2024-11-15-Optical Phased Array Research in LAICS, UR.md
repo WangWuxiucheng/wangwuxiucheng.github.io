@@ -53,7 +53,7 @@ OPA beamsteering requires active control and is challenging to accomplish becaus
 ### Project Timeline {#hist}
 `2016-2019` The OPA project was first initiated in 2016 by Dr.Francis Smith for concept verification. I joined the group in Fall 2017 as a M.S student, working closely with Dr. Smith on various aspects, including OPA device and circuit-level simulations, electronics design, test setup construction, and automation. By late 2018, our team successfully demonstrated OPA beamsteering, which led to securing funding to advance the project.
 
-`2019-2024` After Dr. Smith’s graduation in 2019, I transitioned into a Ph.D. program to continue and expand the project. I introduced new ideas and tapeouted new PICs through various foundries(IMEC, AMF and AIM). My research has focused on enhancing the OPA system's performance metrics, including beamsteering speed, range, accuracy, and power efficiency. Meanwhile, I developed customized electronics to scale the system down from a bench-top setup to a portable version while also exploring OPA-based free-space optical communication applications.
+`2019-2024` After Dr. Smith’s graduation in 2019, I transitioned into a Ph.D. student to continue and expand the project. I introduced new ideas and tapeouted new PICs through various foundries(IMEC, AMF and AIM). My research has focused on enhancing the OPA system's performance metrics, including beamsteering speed, range, accuracy, and power efficiency. Meanwhile, I developed customized electronics to scale the system down from a bench-top setup to a portable version while also exploring OPA-based free-space optical communication applications.
 
 ---
 
