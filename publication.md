@@ -7,7 +7,8 @@ excerpt: Publications
 For the most up-to-date list of publications and citation counts, please visit my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=GkOJbxgAAAAJ&view_op=list_works&sortby=pubdate).
 
 ### Upcoming
-<p>[1] <u> Wuxiucheng Wang</u>, Sasanka Munasinghe, Hui Wu, <strong>Broaden optical phased array beamsteering range with complementary grating emitters</strong>, <em>Photonics West 2025</em>, LASE (Jan-29 2025).</p>
+Working on the next OPA paper... stay tuned.
+
 ---
 
 ### Journal Papers
@@ -15,6 +16,8 @@ For the most up-to-date list of publications and citation counts, please visit m
 ---
 
 ### Conference Papers
+<p>[6] <u> Wuxiucheng Wang</u>, Sasanka Munasinghe, Hui Wu, <strong>Broaden optical phased array beamsteering range with complementary grating emitters</strong>, <em>Photonics West 2025</em>, LASE (Jan-29 2025).</p> &lt;<a href="https://doi.org/10.1117/12.3043452">SPIE link</a>&gt;
+
 <p>[5] <u> Wuxiucheng Wang</u>, Yongchao Liu, Ming Gong, Hui Wu, <strong>Dual-Mode, Subarray Design for Optical Phased Array With Electro-Optic Phase Shifters</strong>, <em>Conference on Lasers and Electro-Optics (CLEO)</em>, JTh2A.188, (2024). &lt;<a href="https://ieeexplore.ieee.org/abstract/document/10727269">IEEE link</a>&gt;&lt;<a href="https://opg.optica.org/abstract.cfm?uri=CLEO_AT-2024-JTh2A.188">Optica link</a>&gt;&lt;<a href="{{ site.url }}{{ site.baseurl }}/research/poster/CLEO-2024-Poster/">Poster</a>&gt;</p>
 
 <p>[4] <u> Wuxiucheng Wang</u>, Lejie Lu, Lydia King, Yongchao Liu, Ming Gong, Shuangyang Li, Hui Wu, <strong>Subarray Design and Thermal Crosstalk Optimization for Power-Efficient Optical Phased Array</strong>, <em>Conference on Lasers and Electro-Optics (CLEO)</em>, SM4P.8, (2023). &lt;<a href="https://ieeexplore.ieee.org/abstract/document/10258690">IEEE link</a>&gt;&lt;<a href="https://opg.optica.org/abstract.cfm?uri=CLEO_SI-2023-SM4P.8">Optica link</a>&gt;&lt;<a href="{{ site.url }}{{ site.baseurl }}/research/poster/CLEO-2023-Poster/">Poster</a>&gt;</p>
