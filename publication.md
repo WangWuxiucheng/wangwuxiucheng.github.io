@@ -16,7 +16,7 @@ Working on the next OPA paper... stay tuned.
 ---
 
 ### Conference Papers
-<p>[6] <u> Wuxiucheng Wang</u>, Sasanka Munasinghe, Hui Wu, <strong>Broaden optical phased array beamsteering range with complementary grating emitters</strong>, <em>Photonics West 2025</em>, LASE (Jan-29 2025).</p> &lt;<a href="https://doi.org/10.1117/12.3043452">SPIE link</a>&gt;
+<p>[6] <u> Wuxiucheng Wang</u>, Sasanka Munasinghe, Hui Wu, <strong>Broaden optical phased array beamsteering range with complementary grating emitters</strong>, <em>Photonics West 2025</em>, LASE (Jan-29 2025). &lt;<a href="https://doi.org/10.1117/12.3043452">SPIE link</a>&gt;</p>
 
 <p>[5] <u> Wuxiucheng Wang</u>, Yongchao Liu, Ming Gong, Hui Wu, <strong>Dual-Mode, Subarray Design for Optical Phased Array With Electro-Optic Phase Shifters</strong>, <em>Conference on Lasers and Electro-Optics (CLEO)</em>, JTh2A.188, (2024). &lt;<a href="https://ieeexplore.ieee.org/abstract/document/10727269">IEEE link</a>&gt;&lt;<a href="https://opg.optica.org/abstract.cfm?uri=CLEO_AT-2024-JTh2A.188">Optica link</a>&gt;&lt;<a href="{{ site.url }}{{ site.baseurl }}/research/poster/CLEO-2024-Poster/">Poster</a>&gt;</p>
 
